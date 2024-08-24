@@ -1,0 +1,9 @@
+{
+	"name": "BadliADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3e33340c-3de5-4835-97ac-bf6ca8b020cc",
+		"tenantId": "24118aeb-969e-481e-85f5-e02452273a9f"
+	}
+}
